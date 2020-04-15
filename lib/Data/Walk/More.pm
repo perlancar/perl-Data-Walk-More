@@ -152,6 +152,8 @@ Options:
 
 =head3 recurseobjects
 
+=head2 walkdepth
+
 
 =head1 VARIABLES
 
